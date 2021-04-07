@@ -8,6 +8,7 @@
     "type": "git",
     "url": "https://github.com/floyda-vscode-extension/vscode-open-hosts"
   },
+  "icon": "res/icon.png",
   "engines": {
     "vscode": "^1.55.0"
   },
